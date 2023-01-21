@@ -1,0 +1,45 @@
+html, 
+body {
+  background-image: url("C:\Users\hp\OneDrive\Desktop\splashes-of-color.avif");
+
+    background: rgb(255 255 255);
+    color: rgb(248, 242, 242);
+    font-family: Helvetica,Arial,Sans-Serif;
+    margin: 0;
+    min-height: 101vh;
+    padding: 0;
+    position: relative;
+}
+
+.container{
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  font-size: 45px;
+}
+
+.topnav
+{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #0f0f0f;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: #f8f1f1;
+}
